@@ -17,3 +17,7 @@ Seu output deverá ser assim:
 DATASUS dbf2dbc 1.0: Comprime arquivos DBF e Expande arquivos DBC
 Sintaxe:
 dbf2dbc <Especificaçao de arquivos> [<Diretório de saída>]
+
+No arquivo será necessário apontar a variável path para a respectiva pasta na máquina local.
+
+Executação recomendada em um Jupyter Notebook.
